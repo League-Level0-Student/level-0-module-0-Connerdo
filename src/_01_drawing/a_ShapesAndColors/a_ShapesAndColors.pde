@@ -4,7 +4,7 @@
 // 2. Code a size command to make it big enough for your picture
 
 //    The size command looks like this:      
-  size (100,200);
+  size (700,700);
 //    Try putting different numbers in the parentheses.
 //    See if you can figure out which number is the width, and which is the height
 
@@ -46,3 +46,8 @@ fill(#FFA850);
 // 7. Now use all these shapes and colors to draw a picture of your own design. 
 
 // MAKE SURE YOU SAVE YOUR CODE 
+
+fill( #EAE00E );
+ellipse(250,250, 100,100);
+ellipse(400,250, 100,100);
+rect(250,400, 300,100);
